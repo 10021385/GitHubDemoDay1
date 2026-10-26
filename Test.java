@@ -4,7 +4,14 @@ public class Test{
 		System.out.println("This is my second change.");
 		System.out.println("This is my third change.");
 
-	}
+		output();
 
+	}
+	public static void output(){
+
+		System.out.println("This is my first method");
+
+
+	}
 
 }
